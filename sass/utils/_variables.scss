@@ -1,0 +1,49 @@
+:root {
+    --primary-title-color: #212121;
+    --primary-text-color: #757575;
+    --accept-color: #2196f3;
+    --white-color: #ffffff;
+    --black-color: #000000;
+    --footer-bg-color: #2f303a;
+    --footer-text-color: rgba(255, 255, 255, 0.6);
+  }
+
+body {
+    background-color: #ffffff;
+    color: #757575;
+}
+
+.container{
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+.list {
+    list-style: none;
+}
+
+.text-decoration{
+    text-decoration: none;
+}
+
+
+.section-title {
+    color: #212121;
+    font-family: Roboto, sans-serif;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.flex{
+    display: flex;
+    padding: 0px;
+    margin: 0px;
+}

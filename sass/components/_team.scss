@@ -1,0 +1,43 @@
+.team{
+    padding: 94px 0px;
+    background: #F5F4FA;
+}
+
+.team-title{
+    margin-bottom: 50px;
+}
+
+.team-boxs{
+    width: 270px;
+    height: 422px;
+    padding: 0px;
+    margin: 0px;
+    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.12), 0px 1px 1px rgba(0, 0, 0, 0.14), 0px 2px 1px rgba(0, 0, 0, 0.2);
+    border-radius: 0px 0px 4px 4px;
+    background-color: #ffffff;
+}
+
+.team-boxs:not(:last-child){
+    margin-right: 30px;
+}
+
+.team-profession{
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 16px;
+}
+
+.team-img{
+    display: inline-block;
+    margin-bottom: 30px;
+}
+
+.team-icons{
+    width: 270px;
+    height: 44px;
+    padding: 0px 32px;
+}
+
+.team-icon:not(:last-child){
+    margin-right: 10px;
+}
